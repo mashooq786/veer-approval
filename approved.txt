@@ -1,1 +1,2 @@
 # VEER device approvals
+VEER-B43281E9B30E
