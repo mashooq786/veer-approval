@@ -1,2 +1,3 @@
 # VEER device approvals
+
 VEER-KEY-0D2DE3A5318D
